@@ -1,0 +1,6 @@
+Quantitative approach to tactical asset allocation
+- 단순히 분산된 포트폴리오로는 위험을 줄이는데 한계가 있다는 과거 자료
+- 위험을 어떻게 조정하면서 수익을 낼 수 있을까?
+--> 이게 핵심
+
+- moving average approach : 10달 평균보다 1퍼센트이상 높으면 DJIA를 사고 떨어지면 djia와 T-BILL 판다.  
